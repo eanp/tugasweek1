@@ -1,3 +1,1 @@
-tugas week1
--flowchart
--algorithm
+tugas week 1
